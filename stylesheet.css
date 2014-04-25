@@ -1,0 +1,130 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:white;
+	font-family:'Helvetica', Arial, sans-serif;
+	font-size: 15px;
+	color:black;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	color:black;
+}
+
+h1{
+	font-size: 19px;
+	font-weight: lighter;
+}
+
+h2{
+	font-size: 40px;
+	font-weight: lighter;
+}
+
+h3{
+	font-size: 17.5px;
+	font-weight: lighter;
+}
+
+h4{
+	font-size: 14px;
+	font-weight: lighter;
+}
+
+h5{
+	font-size: 13px;
+	font-weight: normal;
+	text-align: right;
+}
+
+p{
+	line-height: 170%;
+}
+
+header{
+	background: url('img/fondo.png') center bottom no-repeat;
+	width: 100%;
+	height: 700px;
+	margin: 0 auto;
+	padding:1em 0;
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+
+.wrap{
+	width: 80%;
+	margin: 0 auto;
+	}
+
+.wrap h1{
+	font-size: 22px;
+	font-weight: lighter;
+	color: white;
+}
+
+.wrap h2{
+	color:white;
+}
+
+.wrap h3{
+	color:white;
+}
+
+.wrap h4{
+	color:white;
+	font-weight: lighter;
+}
+
+.wrap p{
+	color:white;
+	width: 60%;
+	margin: 0 auto;
+}
+
+.blanco{
+	width: 100%;
+	height: 60%;
+	color: white;
+}
+
+.texto{
+	width: 60%;
+	position: center;
+	margin: 0 auto;
+}
+
+.contenido{
+	width: 80%;
+	height: 400px;
+	margin: 0 auto;
+	position: center;
+}
+
+.citas {
+	font-size: 12.5px;
+	font-weight: normal;
+}
+
+img{
+	float: left;
+	width: 85%;
+}
+
+img.imagenderecha{
+	float: right;
+}
+
+footer {
+	background: url('img/fondo.png') center bottom no-repeat;
+	position: relative;
+	bottom: 0;
+	margin-top: 9300px;
+	width: 100%;
+	height: 700px;
+	padding:1em 0;
+	color: white;
+	background-color: black;
+	text-align: center;
+}
